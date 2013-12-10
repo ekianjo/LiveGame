@@ -4,3 +4,4 @@
 #episodique.
 #actions possibles a tout moment en plus des actions circonstantielles
 #script est separe du client
+#include ironie
