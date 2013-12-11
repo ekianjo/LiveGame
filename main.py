@@ -5,3 +5,9 @@
 #actions possibles a tout moment en plus des actions circonstantielles
 #script est separe du client
 #include ironie
+
+#affiche texte charactere par charactere avec vitesse predeterminee
+#ensuite donne choix. 
+
+#display avec cairo et Pango
+#
